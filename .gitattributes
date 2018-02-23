@@ -1,0 +1,4 @@
+Data/*.csv filter=lfs diff=lfs merge=lfs -text
+Recommendation[[:space:]]System/Data/BX-Book-Ratings.csv filter=lfs diff=lfs merge=lfs -text
+Recommendation[[:space:]]System/Data/BX-Books.csv filter=lfs diff=lfs merge=lfs -text
+Recommendation[[:space:]]System/Data/BX-Users.csv filter=lfs diff=lfs merge=lfs -text
